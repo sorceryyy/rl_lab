@@ -1,0 +1,8 @@
+numpy
+argparse
+gym
+matplotlib
+Pillow
+scipy
+gym_minigrid
+torchvision

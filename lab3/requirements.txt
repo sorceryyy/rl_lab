@@ -1,0 +1,14 @@
+numpy
+argparse
+gym==0.25.2
+matplotlib
+Pillow
+scipy
+minigrid
+torchvision
+torch
+opencv-python
+tensorflow
+imageio
+ale-py
+gym[accept-rom-license]
